@@ -1,0 +1,455 @@
+date       time     [thread name/id ]                   file:line    v |
+2024-05-07 19:15:14 [MainThread      ]                Log.cpp:285   INFO| Opened log file Hades II.log
+2024-05-07 19:15:14 [MainThread      ]            Program.cpp:2090  INFO| Previous stack guard size was 0 bytes
+2024-05-07 19:15:15 [MainThread      ]    PlatformService.cpp:85    INFO| Processor Count : 12
+2024-05-07 19:15:15 [MainThread      ]            Program.cpp:2406  INFO| TotalRam: 17100017664
+2024-05-07 19:15:15 [MainThread      ]            Program.cpp:2407  INFO| Running Hades II in 64-bit
+2024-05-07 19:15:26 [MainThread      ]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: activeProfile
+2024-05-07 19:15:26 [MainThread      ]     BinaryLoadData.cpp:12    INFO| Reading 16 bytes
+2024-05-07 19:15:26 [MainThread      ]     ProfileManager.cpp:46    INFO| Loading default profile C:\Users\Ashe\Saved Games\Hades II Profile1
+2024-05-07 19:15:26 [MainThread      ]     ProfileManager.cpp:196   INFO| ProfileManager::Load(): Profile1 
+2024-05-07 19:15:26 [MainThread      ]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: Profile1.sjson
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: BackupSaveCount = 2
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:749   INFO| ConfigOption: UseAnalytics = false
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:749   INFO| ConfigOption: ValidCheckpoint = false
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: ControlsResetRevisionViewed = 90279
+2024-05-07 19:15:26 [MainThread      ]     ProfileManager.cpp:227   INFO| Load profile Profile1.sjson successful
+2024-05-07 19:15:26 [MainThread      ]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: GlobalSettingsWin.sjson
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:763   INFO| ConfigOption: MasterVolume = 0.109649
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:770   INFO| ConfigOption: GraphicsQualityPreset = GraphicsQualityPreset_High
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: NewUpdateSoundRevisionViewed = 90279
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: LastRoadmapRevisionViewed = 90279
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:763   INFO| ConfigOption: MusicVolume = 0.524064
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: LastPatchNoteRevisionViewed = 90279
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: Y = 1080
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: X = 1920
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:749   INFO| ConfigOption: AutoDetectLowResAssets = false
+2024-05-07 19:15:26 [MainThread      ]     ProfileManager.cpp:227   INFO| Load profile GlobalSettingsWin.sjson successful
+2024-05-07 19:15:26 [MainThread      ]     BinarySaveData.cpp:17    INFO| Writing 16 bytes
+2024-05-07 19:15:26 [MainThread      ]            Program.cpp:2528  INFO| Initial startup in 10.9 msec
+2024-05-07 19:15:26 [MainThread      ]            Program.cpp:2529  INFO| Profile load in 0.0 msec
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:377   INFO| ----Begin printing all displays available on the system----
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:381   INFO| Number of detected displays: 2
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:526   INFO| Display[0]: Generic PnP Monitor
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:534   INFO| (640 x 480) (720 x 480) (720 x 576) (800 x 600) (1176 x 664) (1280 x 720) (1024 x 768) 
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:534   INFO| (1280 x 768) (1360 x 768) (1366 x 768) (1280 x 800) (1152 x 864) (1440 x 900) (1600 x 900) 
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:534   INFO| (1280 x 960) (1280 x 1024) (1600 x 1024) (1680 x 1050) (1440 x 1080) (1920 x 1080) 
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:538   INFO| 
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:526   INFO| Display[1]: Generic PnP Monitor
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:534   INFO| (640 x 480) (720 x 480) (720 x 576) (800 x 600) (1176 x 664) (1280 x 720) (1024 x 768) 
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:534   INFO| (1280 x 768) (1360 x 768) (1366 x 768) (1280 x 800) (1152 x 864) (1440 x 900) (1600 x 900) 
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:534   INFO| (1280 x 960) (1280 x 1024) (1600 x 1024) (1680 x 1050) (1440 x 1080) (1920 x 1080) 
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:538   INFO| 
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:542   INFO| ----Finish printing all displays available on the system----
+2024-05-07 19:15:26 [MainThread      ]         Resolution.cpp:156   INFO| Monitor modes:
+2024-05-07 19:15:26 [MainThread      ]            Program.cpp:2591  INFO| DisplayModes Configured
+2024-05-07 19:15:26 [MainThread      ]        WindowsBase.cpp:712   INFO| Created window app Hades II
+2024-05-07 19:15:26 [MainThread      ]         Resolution.cpp:156   INFO| Monitor modes:
+2024-05-07 19:15:26 [MainThread      ]            Program.cpp:2735  INFO| DisplayModes Configured
+2024-05-07 19:15:26 [MainThread      ]            Program.cpp:2749  INFO| PlatformService Initialized
+2024-05-07 19:15:26 [MainThread      ]   InputSystemWin64.cpp:200   INFO| SDL Initialized with SDL_HINT_JOYSTICK_ALLOW_BACKGROUND_EVENTS
+2024-05-07 19:15:26 [MainThread      ]   InputSystemWin64.cpp:210   INFO| InputSystemSDL Initialized 
+2024-05-07 19:15:26 [MainThread      ]       SDL2_GamePad.cpp:376   INFO| Could not open file: gamecontrollerdb.txt
+2024-05-07 19:15:26 [MainThread      ]            Program.cpp:2761  INFO| InputSystem Initialized
+2024-05-07 19:15:26 [MainThread      ]          NvApiHelper.h:38    INFO| NVIDIA Display Driver Version 55212
+2024-05-07 19:15:26 [MainThread      ]          NvApiHelper.h:39    INFO| NVIDIA Build Branch r552_05
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1688  INFO| GPU[0] detected. Vendor ID: 10de, Model ID: 21c4, Revision ID: a1, GPU Name: NVIDIA GeForce GTX 1660 SUPER
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1688  INFO| GPU[1] detected. Vendor ID: 1414, Model ID: 8c, Revision ID: 0, GPU Name: Microsoft Basic Render Driver
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1688  INFO| GPU[2] detected. Vendor ID: 10de, Model ID: 21c4, Revision ID: a1, GPU Name: NVIDIA GeForce GTX 1660 SUPER
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1809  INFO| GPU[0] detected for possible selection. Vendor ID: 10de, Model ID: 21c4, Revision ID: a1, GPU Name: NVIDIA GeForce GTX 1660 SUPER
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1809  INFO| GPU[1] detected for possible selection. Vendor ID: 10de, Model ID: 21c4, Revision ID: a1, GPU Name: NVIDIA GeForce GTX 1660 SUPER
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1861  INFO| GPU[0] is selected as default GPU
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1862  INFO| Name of selected gpu: NVIDIA GeForce GTX 1660 SUPER
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1863  INFO| Vendor id of selected gpu: 0x10de
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1864  INFO| Model id of selected gpu: 0x21c4
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1865  INFO| Revision id of selected gpu: 0xa1
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:2369  INFO| Profile: AddDevice with FastCreate ON 0.260000
+2024-05-07 19:15:26 [MainThread      ]            Program.cpp:2779  INFO| Renderer Initialized
+2024-05-07 19:15:26 [MainThread      ]            Program.cpp:2785  INFO| Renderer Loaded
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:234   INFO| DetectSystemMinSpec
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:236   INFO| Total RAM Megabytes: 16307
+2024-05-07 19:15:26 [MainThread      ]         Direct3D12.cpp:1548  INFO| Shared system graphics memory 8153 MB
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:240   INFO| Total Display Memory Megabytes: 14119
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:241   INFO| VRAM Megabytes: 5966
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:242   INFO| Shared Memory Megabytes: 8153
+2024-05-07 19:15:26 [MainThread      ]      ConfigOptions.cpp:244   INFO| Total processor cores: 12
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:149   INFO| Starting app: Ship 90279
+2024-05-07 19:15:26 [MainThread      ]         Resolution.cpp:89    INFO| ____________________________________Resolution::Resize __________________
+2024-05-07 19:15:26 [MainThread      ]         Resolution.cpp:90    INFO| VIEWPORT: X: 0  Y: 0 W: 1920 H: 1080
+2024-05-07 19:15:26 [MainThread      ]         Resolution.cpp:91    INFO| SCALE: X: 1.000000 Y: 1.000000
+2024-05-07 19:15:26 [MainThread      ]         Resolution.cpp:92    INFO| FULL_VIEWPORT: X: 0  Y: 0 W: 1920 H: 1080
+2024-05-07 19:15:26 [MainThread      ]         Resolution.cpp:93    INFO| ____________________________________Resolution::Resize__________________
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:172   INFO| Initializing graphics device: 1920x1080
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:178   INFO| Setting fullscreen: false
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:200   INFO| Create components
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:217   INFO| Full screen bloom
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:218   INFO| Frame rate counter
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:224   INFO| Done with constructor
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:227   INFO| Setting RandomSeed: 778835088
+2024-05-07 19:15:26 [MainThread      ]                App.cpp:482   INFO| App Initialize
+2024-05-07 19:15:26 [MainThread      ]        DrawManager.cpp:234   INFO| Started adding shader files
+2024-05-07 19:15:28 [MainThread      ]        DrawManager.cpp:282   INFO| Finished adding shader files
+2024-05-07 19:15:28 [MainThread      ]        DrawManager.cpp:285   INFO| Finished adding shader resources
+2024-05-07 19:15:28 [MainThread      ]   GameAssetManager.cpp:788   INFO| Loading package: Launch.pkg
+2024-05-07 19:15:28 [MainThread      ]   GameAssetManager.cpp:711   INFO| Start reading manifest Launch
+2024-05-07 19:15:28 [MainThread      ]   GameAssetManager.cpp:764   INFO| Done reading manifest Launch
+2024-05-07 19:15:28 [MainThread      ]   GameAssetManager.cpp:813   INFO| Package Loaded: Launch 4Mb in 0.00s
+2024-05-07 19:15:28 [MainThread      ]      ScreenManager.cpp:117   INFO| Load Launch Pkg took 0.017778 seconds
+2024-05-07 19:15:28 [MainThread      ]   GameAssetManager.cpp:788   INFO| Loading package: Dev.pkg
+2024-05-07 19:15:28 [MainThread      ]   GameAssetManager.cpp:711   INFO| Start reading manifest Dev
+2024-05-07 19:15:28 [MainThread      ]   GameAssetManager.cpp:764   INFO| Done reading manifest Dev
+2024-05-07 19:15:28 [MainThread      ]   GameAssetManager.cpp:813   INFO| Package Loaded: Dev 72Mb in 0.07s
+2024-05-07 19:15:28 [MainThread      ]      ScreenManager.cpp:123   INFO| Dev Pkg took 0.067640 seconds
+2024-05-07 19:15:28 [MainThread      ]      ScreenManager.cpp:131   INFO| Localization::Init() took 0.215112 seconds
+2024-05-07 19:15:28 [LoadTaskScheduler]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: Profile1.ctrls
+2024-05-07 19:15:28 [LoadTaskScheduler]     BinaryLoadData.cpp:12    INFO| Reading 744 bytes
+2024-05-07 19:15:28 [MainThread      ]    GameDataManager.cpp:264   INFO| Reading game data from S:\Games\Hades II\Hades II\Content\Game
+2024-05-07 19:15:28 [LoadTaskScheduler]             LuaExt.cpp:483   INFO| Lua interface destroyed
+2024-05-07 19:15:28 [MainThread      ]                App.cpp:322   INFO| App.resize 1920x1080 Windowed
+2024-05-07 19:15:28 [MainThread      ]         Resolution.cpp:89    INFO| ____________________________________Resolution::Resize __________________
+2024-05-07 19:15:28 [MainThread      ]         Resolution.cpp:90    INFO| VIEWPORT: X: 0  Y: 0 W: 1920 H: 1080
+2024-05-07 19:15:28 [MainThread      ]         Resolution.cpp:91    INFO| SCALE: X: 1.000000 Y: 1.000000
+2024-05-07 19:15:28 [MainThread      ]         Resolution.cpp:92    INFO| FULL_VIEWPORT: X: 0  Y: 0 W: 1920 H: 1080
+2024-05-07 19:15:28 [MainThread      ]         Resolution.cpp:93    INFO| ____________________________________Resolution::Resize__________________
+2024-05-07 19:15:29 [MainThread      ]       LaunchScreen.cpp:197   INFO| new LaunchScreen
+2024-05-07 19:15:29 [LoadTaskScheduler]       AudioManager.cpp:538   INFO| AudioManager.Initialize
+2024-05-07 19:15:29 [MainThread      ]  PlatformAnalytics.cpp:27    INFO| Initializing Analytics
+2024-05-07 19:15:29 [MainThread      ]  PlatformAnalytics.cpp:31    INFO| Done initializing Analytics
+2024-05-07 19:15:29 [MainThread      ]            Program.cpp:3011  INFO| Application Init+Load 3.054000
+2024-05-07 19:15:29 [MainThread      ]            Program.cpp:3025  INFO| User Document Path found!!
+2024-05-07 19:15:29 [MainThread      ]            Program.cpp:3040  INFO| Log file created
+2024-05-07 19:15:29 [MainThread      ]            Program.cpp:3055  INFO| Data correctly read!!
+2024-05-07 19:15:29 [MainThread      ]        WindowsBase.cpp:1173  INFO| Application Init+Load 3.054000
+2024-05-07 19:15:29 [LoadTaskScheduler]       LaunchScreen.cpp:52    INFO| Load Manifests collect workload took 0.000244s
+2024-05-07 19:15:29 [LoadTaskScheduler]       LaunchScreen.cpp:70    INFO| Load Manifests took 0.180303s
+2024-05-07 19:15:29 [LoadTaskScheduler]       LaunchScreen.cpp:95    INFO| binkAtlases took 0.097435s
+2024-05-07 19:15:29 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: GUI.pkg
+2024-05-07 19:15:29 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest GUI
+2024-05-07 19:15:29 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest GUI
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:679   INFO| FMOD Default Rate 48000 Mode 0 Speakers 0 Software Channels: 64
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:686   INFO| FMOD changed to Rate: 48000 Mode: 3 Speakers: 2 Software Channels: 30
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:754   INFO| FMOD post init Rate 48000 Mode 3 Speakers 2
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:755   INFO| FMOD driver: Speakers (2- Realtek High Definition Audio)
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: MasterBank
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: MasterBank.strings
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: Ambience
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: Music
+2024-05-07 19:15:30 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Blit2DDepth blend state 5 depthState 2
+2024-05-07 19:15:30 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::DefaultBlank blend state 5 depthState 1
+2024-05-07 19:15:30 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Default blend state 1 depthState 1
+2024-05-07 19:15:30 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Blit2D blend state 5 depthState 1
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:1103  INFO| Voice bank loaded successfully: Melinoe (3338 lines)
+2024-05-07 19:15:30 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: GUI 773Mb in 1.05s
+2024-05-07 19:15:30 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: GUI_Mouse.pkg
+2024-05-07 19:15:30 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest GUI_Mouse
+2024-05-07 19:15:30 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest GUI_Mouse
+2024-05-07 19:15:30 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: GUI_Mouse 0Mb in 0.00s
+2024-05-07 19:15:30 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: Fx.pkg
+2024-05-07 19:15:30 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest Fx
+2024-05-07 19:15:30 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest Fx
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:1103  INFO| Voice bank loaded successfully: Storyteller (227 lines)
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:1197  INFO| AudioManager categories loaded
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:784   INFO| AudioManager.FModStartup complete
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:519   INFO| Audio package version: 90267
+2024-05-07 19:15:30 [LoadTaskScheduler]       AudioManager.cpp:573   INFO| AudioManager.Initialize complete
+2024-05-07 19:15:30 [LoadTaskScheduler]       LaunchScreen.cpp:133   INFO| AudioManager::Initialize took 1.387355s
+2024-05-07 19:15:30 [LoadTaskScheduler]    GameDataManager.cpp:913   INFO| Data package version: 90273
+2024-05-07 19:15:30 [LoadTaskScheduler]    GameDataManager.cpp:545   INFO| Reading game data from S:\Games\Hades II\Hades II\Content\Game
+2024-05-07 19:15:30 [LoadTaskScheduler]    GameDataManager.cpp:934   INFO| ReadUnitData took 0.046415 seconds
+2024-05-07 19:15:30 [LoadTaskScheduler]    GameDataManager.cpp:985   INFO| ReadWeaponData took 0.057982 seconds
+2024-05-07 19:15:30 [LoadTaskScheduler]    GameDataManager.cpp:990   INFO| Projectile took 0.055557 seconds
+2024-05-07 19:15:31 [LoadTaskScheduler]    GameDataManager.cpp:995   INFO| ReadObstacleData took 0.377418 seconds
+2024-05-07 19:15:31 [LoadTaskScheduler]    GameDataManager.cpp:1000  INFO| Other Data took 0.038016 seconds
+2024-05-07 19:15:31 [LoadTaskScheduler]    GameDataManager.cpp:1005  INFO| ReadAllGrannyFilePaths took 0.003900 seconds
+2024-05-07 19:15:31 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: Fx 915Mb in 0.78s
+2024-05-07 19:15:31 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: ScriptsBase.pkg
+2024-05-07 19:15:31 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest ScriptsBase
+2024-05-07 19:15:31 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest ScriptsBase
+2024-05-07 19:15:32 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: ScriptsBase 1024Mb in 0.98s
+2024-05-07 19:15:32 [LoadTaskScheduler]       LaunchScreen.cpp:113   INFO| Load BasePackages took 2.874950
+2024-05-07 19:15:47 [LoadTaskScheduler]    GameDataManager.cpp:1010  INFO| ReadAnimationData took 16.133701 seconds
+2024-05-07 19:15:49 [LoadTaskScheduler]    GameDataManager.cpp:1015  INFO| ReadTextData took 1.537985 seconds
+2024-05-07 19:15:49 [LoadTaskScheduler]    GameDataManager.cpp:1017  INFO| ReadGameData took 18.251007 seconds
+2024-05-07 19:15:49 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: GUI
+2024-05-07 19:15:49 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: Fx
+2024-05-07 19:15:49 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: ScriptsBase
+2024-05-07 19:15:49 [LoadTaskScheduler]       LaunchScreen.cpp:183   INFO| Waiting for manifest and audio took 16.702530s
+2024-05-07 19:15:49 [LoadTaskScheduler]       LaunchScreen.cpp:186   INFO| GameDataManager::MarkCachesPermanent took 0.015255s
+2024-05-07 19:15:49 [MainThread      ]       LaunchScreen.cpp:368   INFO| Done with boot load in 22.920340s
+2024-05-07 19:15:49 [MainThread      ]           InGameUI.cpp:65    INFO| InGameUI Construct
+2024-05-07 19:15:49 [MainThread      ]       LaunchScreen.cpp:652   INFO| Launch took 23.184353 seconds
+2024-05-07 19:15:49 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::DefaultBlank blend state 5 depthState 0
+2024-05-07 19:15:49 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Blit2DInv blend state 5 depthState 1
+2024-05-07 19:15:49 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::DistanceFieldFancy blend state 1 depthState 1
+2024-05-07 19:15:49 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::DistanceFieldText blend state 1 depthState 1
+2024-05-07 19:15:50 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::AddColor blend state 1 depthState 1
+2024-05-07 19:15:54 [MainThread      ]     ProfileManager.cpp:149   INFO| saveProfile()
+2024-05-07 19:15:54 [LoadTaskScheduler]     ProfileManager.cpp:96    INFO| beginning profile write
+2024-05-07 19:15:54 [LoadTaskScheduler]     ProfileManager.cpp:126   INFO| profile write done
+2024-05-07 19:15:54 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::YUVA blend state 1 depthState 1
+2024-05-07 19:15:57 [LoadTaskScheduler]       PlatformFile.cpp:194   INFO| WindowsFile::DirectoryGetFiles(  C:\Users\Ashe\Saved Games\Hades II  ,  , Profile*.sav  )
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:862   INFO| ProgressManager.load Profile1.sav IPlatformSaveDevice
+2024-05-07 19:15:57 [LoadTaskScheduler]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: Profile1.sav
+2024-05-07 19:15:57 [LoadTaskScheduler]     BinaryLoadData.cpp:12    INFO| Reading 243507 bytes
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:904   INFO| Load succeeded
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:862   INFO| ProgressManager.load Profile1.v.sav IPlatformSaveDevice
+2024-05-07 19:15:57 [LoadTaskScheduler]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: Profile1.v.sav
+2024-05-07 19:15:57 [LoadTaskScheduler]     BinaryLoadData.cpp:12    INFO| Reading 9 bytes
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:904   INFO| Load succeeded
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:862   INFO| ProgressManager.load Profile1_Temp.sav IPlatformSaveDevice
+2024-05-07 19:15:57 [LoadTaskScheduler]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: Profile1_Temp.sav
+2024-05-07 19:15:57 [LoadTaskScheduler]     BinaryLoadData.cpp:12    INFO| Reading 246296 bytes
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:904   INFO| Load succeeded
+2024-05-07 19:15:57 [MainThread      ] RemoteProfileScreen.cpp:575   INFO| ActiveProfile = Profile1
+2024-05-07 19:15:57 [MainThread      ] RemoteProfileScreen.cpp:589   INFO| Profile1 == Profile1, ActiveProfile Index = 0
+2024-05-07 19:15:57 [MainThread      ] RemoteProfileScreen.cpp:663   INFO| Finishing Creating Components For RemoteProfileScreen
+2024-05-07 19:15:57 [LoadTaskScheduler] RemoteProfileScreen.cpp:65    INFO| SetupProfiles
+2024-05-07 19:15:57 [LoadTaskScheduler]       PlatformFile.cpp:194   INFO| WindowsFile::DirectoryGetFiles(  C:\Users\Ashe\Saved Games\Hades II  ,  , *.sjson  )
+2024-05-07 19:15:57 [LoadTaskScheduler] RemoteProfileScreen.cpp:70    INFO| Total saves :3
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:207   INFO| Getting Preferred Save
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:215   INFO| MainSaveInfo
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:222   INFO| tempSaveInfo
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:229   INFO| mainSaveIndex >
+2024-05-07 19:15:57 [LoadTaskScheduler] RemoteProfileScreen.cpp:79    INFO| localSaveFileName  :Profile1.sav
+2024-05-07 19:15:57 [LoadTaskScheduler] RemoteProfileScreen.cpp:82    INFO| !saveFileName.empty()
+2024-05-07 19:15:57 [LoadTaskScheduler] RemoteProfileScreen.cpp:85    INFO| mProfileButtons[0]->mDataValue: Profile1
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:207   INFO| Getting Preferred Save
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:215   INFO| MainSaveInfo
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:222   INFO| tempSaveInfo
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:229   INFO| mainSaveIndex >
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:235   INFO| tempSaveIndex >
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:255   INFO| mainSaveIndex >= 0
+2024-05-07 19:15:57 [LoadTaskScheduler] RemoteProfileScreen.cpp:79    INFO| localSaveFileName  :
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:207   INFO| Getting Preferred Save
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:215   INFO| MainSaveInfo
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:222   INFO| tempSaveInfo
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:229   INFO| mainSaveIndex >
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:235   INFO| tempSaveIndex >
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:255   INFO| mainSaveIndex >= 0
+2024-05-07 19:15:57 [LoadTaskScheduler] RemoteProfileScreen.cpp:79    INFO| localSaveFileName  :
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:207   INFO| Getting Preferred Save
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:215   INFO| MainSaveInfo
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:222   INFO| tempSaveInfo
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:229   INFO| mainSaveIndex >
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:235   INFO| tempSaveIndex >
+2024-05-07 19:15:57 [LoadTaskScheduler]    ProgressManager.cpp:255   INFO| mainSaveIndex >= 0
+2024-05-07 19:15:57 [LoadTaskScheduler] RemoteProfileScreen.cpp:79    INFO| localSaveFileName  :
+2024-05-07 19:15:58 [MainThread      ] RemoteProfileScreen.cpp:758   INFO| Enter Profile Button
+2024-05-07 19:15:59 [MainThread      ] RemoteProfileScreen.cpp:458   INFO| Enter StartOrContinueGame
+2024-05-07 19:15:59 [MainThread      ] RemoteProfileScreen.cpp:477   INFO| loading CheckPoint
+2024-05-07 19:15:59 [MainThread      ]    ProgressManager.cpp:1218  INFO| ProgressManager.load Profile1.sav IPlatformSaveDevice
+2024-05-07 19:15:59 [LoadTaskScheduler]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: Profile1.sav
+2024-05-07 19:15:59 [LoadTaskScheduler]     BinaryLoadData.cpp:12    INFO| Reading 243507 bytes
+2024-05-07 19:15:59 [MainThread      ]    ProgressManager.cpp:1285  INFO| Load succeeded
+2024-05-07 19:15:59 [MainThread      ]                App.cpp:1467  INFO| App.Reset Start
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| Projectile 0 / 217 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| HomingProjectile 0 / 108 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| BeamProjectile 0 / 81 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| LobProjectile 0 / 81 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| ArcProjectile 0 / 81 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| InstantProjectile 0 / 108 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| Effect 0 / 256 (max 0)
+2024-05-07 19:15:59 [MainThread      ]             LuaExt.cpp:483   INFO| Lua interface destroyed
+2024-05-07 19:15:59 [MainThread      ]       AudioManager.cpp:326   INFO| AudioManager.reset
+2024-05-07 19:15:59 [MainThread      ]       AudioManager.cpp:3505  INFO| AudioManager.reset, excludeId = -1, fullWipe = true
+2024-05-07 19:15:59 [MainThread      ]     ProfileManager.cpp:46    INFO| Loading default profile C:\Users\Ashe\Saved Games\Hades II Profile1
+2024-05-07 19:15:59 [MainThread      ]     ProfileManager.cpp:196   INFO| ProfileManager::Load(): Profile1 
+2024-05-07 19:15:59 [MainThread      ]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: Profile1.sjson
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: BackupSaveCount = 2
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:749   INFO| ConfigOption: UseAnalytics = false
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:749   INFO| ConfigOption: ValidCheckpoint = false
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: ControlsResetRevisionViewed = 90279
+2024-05-07 19:15:59 [MainThread      ]     ProfileManager.cpp:227   INFO| Load profile Profile1.sjson successful
+2024-05-07 19:15:59 [MainThread      ]       PCSaveDevice.cpp:311   INFO| Opening save file for reading: GlobalSettingsWin.sjson
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:763   INFO| ConfigOption: MasterVolume = 0.109649
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:770   INFO| ConfigOption: GraphicsQualityPreset = GraphicsQualityPreset_High
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: NewUpdateSoundRevisionViewed = 90279
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: LastRoadmapRevisionViewed = 90279
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:763   INFO| ConfigOption: MusicVolume = 0.524064
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: LastPatchNoteRevisionViewed = 90279
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: Y = 1080
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:756   INFO| ConfigOption: X = 1920
+2024-05-07 19:15:59 [MainThread      ]      ConfigOptions.cpp:749   INFO| ConfigOption: AutoDetectLowResAssets = false
+2024-05-07 19:15:59 [MainThread      ]     ProfileManager.cpp:227   INFO| Load profile GlobalSettingsWin.sjson successful
+2024-05-07 19:15:59 [MainThread      ]     BinarySaveData.cpp:17    INFO| Writing 16 bytes
+2024-05-07 19:15:59 [MainThread      ]                App.cpp:1519  INFO| App.Reset Finished
+2024-05-07 19:15:59 [MainThread      ]              World.cpp:1315  INFO| World::Begin()  -> Hub_Main
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| Projectile 0 / 217 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| HomingProjectile 0 / 108 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| BeamProjectile 0 / 81 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| LobProjectile 0 / 81 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| ArcProjectile 0 / 81 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| InstantProjectile 0 / 108 (max 0)
+2024-05-07 19:15:59 [MainThread      ]                 Pool.h:206   INFO| Effect 0 / 256 (max 0)
+2024-05-07 19:15:59 [MainThread      ]              World.cpp:1373  INFO| Finished World::Begin (0.003602 seconds)
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1205  INFO| Started loadMapDataTask (Hub_Main)
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1244  INFO| Started preScriptLoadTask
+2024-05-07 19:15:59 [LoadTaskScheduler]     BinaryLoadData.cpp:12    INFO| Reading 665412 bytes
+2024-05-07 19:15:59 [LoadTaskScheduler]    ProgressManager.cpp:1134  INFO| ProgressManager::LoadLua 243334 -> 1009438 4.148364 : 0.009083 s
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1250  INFO| Finished preScriptLoadTask (0.009134 seconds)
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1257  INFO| Started loadPackagesTask
+2024-05-07 19:15:59 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: DeathArea.pkg
+2024-05-07 19:15:59 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest DeathArea
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1238  INFO| Finished loadMapDataTask (0.048992 seconds)
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1267  INFO| Started postLoadTask
+2024-05-07 19:15:59 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest DeathArea
+2024-05-07 19:15:59 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: DeathArea 172Mb in 0.20s
+2024-05-07 19:15:59 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: DeathArea
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1261  INFO| Finished loadPackagesTask (0.239132 seconds)
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1277  INFO| Done waiting for packages and pre-scripts task
+2024-05-07 19:15:59 [LoadTaskScheduler]              World.cpp:1284  INFO| Calling PostLoad
+2024-05-07 19:15:59 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: HestiaUpgrade.pkg
+2024-05-07 19:15:59 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest HestiaUpgrade
+2024-05-07 19:15:59 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest HestiaUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: HestiaUpgrade 64Mb in 0.07s
+2024-05-07 19:16:00 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: HestiaUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: TrialUpgrade.pkg
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest TrialUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest TrialUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: TrialUpgrade 13Mb in 0.01s
+2024-05-07 19:16:00 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: TrialUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: HephaestusUpgrade.pkg
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest HephaestusUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest HephaestusUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: HephaestusUpgrade 8Mb in 0.01s
+2024-05-07 19:16:00 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: HephaestusUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: DemeterUpgrade.pkg
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest DemeterUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest DemeterUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: DemeterUpgrade 41Mb in 0.04s
+2024-05-07 19:16:00 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: DemeterUpgrade
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: _PlayerUnit.pkg
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest _PlayerUnit
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest _PlayerUnit
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: _PlayerUnit 0Mb in 0.00s
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:788   INFO| Loading package: FrogFamiliar.pkg
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:711   INFO| Start reading manifest FrogFamiliar
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:764   INFO| Done reading manifest FrogFamiliar
+2024-05-07 19:16:00 [LoadTaskScheduler]   GameAssetManager.cpp:813   INFO| Package Loaded: FrogFamiliar 0Mb in 0.00s
+2024-05-07 19:16:00 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: _PlayerUnit
+2024-05-07 19:16:00 [LoadTaskScheduler]       AudioManager.cpp:873   INFO| Loading bank: FrogFamiliar
+2024-05-07 19:16:00 [LoadTaskScheduler]              World.cpp:1286  INFO| Finished PostLoad
+2024-05-07 19:16:00 [LoadTaskScheduler]              World.cpp:1291  INFO| Finished postLoadTask (0.652279 seconds)
+2024-05-07 19:16:00 [MainThread      ]              World.cpp:1302  INFO| Started loadScreen onExit
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:788   INFO| Loading package: WeaponBlink.pkg
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:711   INFO| Start reading manifest WeaponBlink
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:764   INFO| Done reading manifest WeaponBlink
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:813   INFO| Package Loaded: WeaponBlink 2Mb in 0.00s
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:788   INFO| Loading package: WeaponCast.pkg
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:711   INFO| Start reading manifest WeaponCast
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:764   INFO| Done reading manifest WeaponCast
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:813   INFO| Package Loaded: WeaponCast 3Mb in 0.00s
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:788   INFO| Loading package: WeaponDagger.pkg
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:711   INFO| Start reading manifest WeaponDagger
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:764   INFO| Done reading manifest WeaponDagger
+2024-05-07 19:16:00 [MainThread      ]   GameAssetManager.cpp:813   INFO| Package Loaded: WeaponDagger 3Mb in 0.00s
+2024-05-07 19:16:00 [MainThread      ]       AudioManager.cpp:873   INFO| Loading bank: WeaponDagger
+2024-05-07 19:16:00 [MainThread      ]       AudioManager.cpp:1103  INFO| Voice bank loaded successfully: Hypnos (9 lines)
+2024-05-07 19:16:00 [MainThread      ]       AudioManager.cpp:1103  INFO| Voice bank loaded successfully: Hecate (589 lines)
+2024-05-07 19:16:00 [MainThread      ]       AudioManager.cpp:1103  INFO| Voice bank loaded successfully: Nemesis (281 lines)
+2024-05-07 19:16:01 [MainThread      ]       AudioManager.cpp:1103  INFO| Voice bank loaded successfully: Dora (249 lines)
+2024-05-07 19:16:01 [MainThread      ]              World.cpp:1308  INFO| Finished loadScreen onExit (0.450829 seconds)
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::ZOnly blend state 1 depthState 3
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::ShadowMap blend state 5 depthState 1
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Lighting3DFast blend state 1 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Lighting3DAlpha blend state 1 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::LighterColor2D blend state 5 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Overlay2D blend state 5 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Light blend state 7 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Blit2D blend state 7 depthState 1
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::AddColor blend state 1 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::ColorGrading blend state 5 depthState 1
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::GaussianBlurWithBloomExtract blend state 5 depthState 1
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::GaussianBlur blend state 5 depthState 1
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::BloomCombine blend state 5 depthState 1
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Lighting3DFast blend state 0 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Granny3D blend state 1 depthState 2
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::LightAndShadow blend state 7 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Shadow3D blend state 5 depthState 1
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::ShadowCast3D blend state 1 depthState 0
+2024-05-07 19:16:01 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Granny3DSprite blend state 1 depthState 1
+2024-05-07 19:16:06 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::AddColor blend state 0 depthState 0
+2024-05-07 19:16:06 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::DistanceFieldText blend state 1 depthState 0
+2024-05-07 19:16:06 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::DistanceFieldFancy blend state 1 depthState 0
+2024-05-07 19:16:07 [RenderThread    ]      ForgeRenderer.cpp:6440  INFO| Creating pipeline for effect: ShaderEffectType::Lighting3DFast blend state 8 depthState 0
+2024-05-07 19:16:08 [MainThread      ]              World.cpp:1382  INFO| World::Stop()
+2024-05-07 19:16:12 [MainThread      ]       AudioManager.cpp:326   INFO| AudioManager.reset
+2024-05-07 19:16:12 [MainThread      ]       AudioManager.cpp:3505  INFO| AudioManager.reset, excludeId = -1, fullWipe = true
+2024-05-07 19:16:12 [MainThread      ]     ProfileManager.cpp:149   INFO| saveProfile()
+2024-05-07 19:16:12 [LoadTaskScheduler]     ProfileManager.cpp:96    INFO| beginning profile write
+2024-05-07 19:16:12 [MainThread      ]                 Pool.h:206   INFO| Projectile 0 / 217 (max 1)
+2024-05-07 19:16:12 [MainThread      ]                 Pool.h:206   INFO| HomingProjectile 0 / 108 (max 0)
+2024-05-07 19:16:12 [MainThread      ]                 Pool.h:206   INFO| BeamProjectile 0 / 81 (max 0)
+2024-05-07 19:16:12 [MainThread      ]                 Pool.h:206   INFO| LobProjectile 0 / 81 (max 0)
+2024-05-07 19:16:12 [MainThread      ]                 Pool.h:206   INFO| ArcProjectile 0 / 81 (max 0)
+2024-05-07 19:16:12 [MainThread      ]                 Pool.h:206   INFO| InstantProjectile 0 / 108 (max 0)
+2024-05-07 19:16:12 [LoadTaskScheduler]     ProfileManager.cpp:126   INFO| profile write done
+2024-05-07 19:16:12 [MainThread      ]                 Pool.h:206   INFO| Effect 0 / 256 (max 9)
+2024-05-07 19:16:15 [MainThread      ]     ProfileManager.cpp:149   INFO| saveProfile()
+2024-05-07 19:16:15 [MainThread      ]     MainMenuScreen.cpp:841   INFO| MainMenuScreen::ExitGame()
+2024-05-07 19:16:15 [LoadTaskScheduler]     ProfileManager.cpp:96    INFO| beginning profile write
+2024-05-07 19:16:15 [LoadTaskScheduler]     ProfileManager.cpp:126   INFO| profile write done
+2024-05-07 19:16:15 [RenderThread    ]            Program.cpp:1973  INFO| renderThread exit
+2024-05-07 19:16:16 [MainThread      ]            Program.cpp:167   INFO| IrisMainApp::Exit()
+2024-05-07 19:16:16 [MainThread      ]                App.cpp:235   INFO| Shutting down
+2024-05-07 19:16:16 [MainThread      ]           InGameUI.cpp:56    INFO| InGameUI Destroy
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| Projectile 0 / 217 (max 1)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| HomingProjectile 0 / 108 (max 0)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| BeamProjectile 0 / 81 (max 0)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| LobProjectile 0 / 81 (max 0)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| ArcProjectile 0 / 81 (max 0)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| InstantProjectile 0 / 108 (max 0)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| Effect 0 / 256 (max 9)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| Effect 0 / 256 (max 9)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| GunWeapon 0 / 32 (max 9)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| BlinkWeapon 0 / 32 (max 2)
+2024-05-07 19:16:16 [MainThread      ]                 Pool.h:206   INFO| RamWeapon 0 / 32 (max 1)
+2024-05-07 19:16:16 [MainThread      ]             LuaExt.cpp:483   INFO| Lua interface destroyed
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: Launch
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	Launch bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	Launch package: 0.02 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: Dev
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	Dev bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	Dev package: 0.49 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: GUI
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	GUI bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	GUI package: 8.10 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: GUI_Mouse
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	GUI_Mouse bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	GUI_Mouse package: 0.05 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: Fx
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	Fx bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	Fx package: 11.81 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: ScriptsBase
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	ScriptsBase bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	ScriptsBase package: 10.81 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: DeathArea
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	DeathArea bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	DeathArea package: 1.25 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: HestiaUpgrade
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	HestiaUpgrade bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	HestiaUpgrade package: 0.48 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: TrialUpgrade
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	TrialUpgrade bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	TrialUpgrade package: 0.04 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: HephaestusUpgrade
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	HephaestusUpgrade bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	HephaestusUpgrade package: 0.07 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: DemeterUpgrade
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	DemeterUpgrade bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	DemeterUpgrade package: 0.49 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: _PlayerUnit
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	_PlayerUnit bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	_PlayerUnit package: 0.04 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: FrogFamiliar
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	FrogFamiliar bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	FrogFamiliar package: 0.01 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: WeaponBlink
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	WeaponBlink bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	WeaponBlink package: 0.17 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: WeaponCast
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	WeaponCast bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	WeaponCast package: 0.07 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:932   INFO| Unloading: WeaponDagger
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:937   INFO| 	WeaponDagger bank: 0.00 ms
+2024-05-07 19:16:16 [MainThread      ]   GameAssetManager.cpp:944   INFO| 	WeaponDagger package: 0.02 ms
