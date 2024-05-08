@@ -1,5 +1,6 @@
 {
   MasterVolume = 0.109649
+  GraphicsQualityPreset = "GraphicsQualityPreset_High"
   NewUpdateSoundRevisionViewed = 90279
   LastRoadmapRevisionViewed = 90279
   MusicVolume = 0.524064
