@@ -1,7 +1,8 @@
 {
-  BackupSaveCount = 6
+  BackupSaveCount = 7
+  Rumble = false
   UseAnalytics = false
   ValidCheckpoint = false
   ControlsResetRevisionViewed = 90279
-  CurrentSettingsCategory = 256
+  CurrentSettingsCategory = 32
 }
